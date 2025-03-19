@@ -102,13 +102,7 @@ Initializes the rental contract with:
 - **Funds stay locked** in the contract until withdrawn by the landlord.
 - **Tenant cannot rent twice** to prevent overpaying.
 
----
 
-## 🏗️ Future Improvements
-
-🔹 Support for **multiple rental properties** in one contract.  
-🔹 Integration with **ERC-20 tokens** for payment instead of ETH.  
-🔹 **Dispute resolution mechanism** for fair arbitration.
 
 ---
 
